@@ -3,10 +3,7 @@ title: "practiceamruta"
 output: html_document
 date: "2025-04-29"
 
-#amruta practice
-#how does this work
-#blah blah blah
-#again
+
 ---
 
 ```{r setup, include=FALSE}
